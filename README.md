@@ -30,4 +30,5 @@ University of Utah network, answer the following questions:
 - [ ] How did my laptop learn the IP address for the web server? Be as descript as possible.
 - [ ] Did this take "more" or "less" effort than the previous website? Elaborate on why.
 - [ ] Obviously since I'm talking to a webserver, a web protocol should be involved, but HTTP is absent. Why?
+- [ ] With wireshark capturing packets on your own machine, try and reproduce this exchange as much as possible. Check it off, and reason why the differences are what they are.
 
